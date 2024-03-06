@@ -1,4 +1,4 @@
-**Motivation: ** The basic motivation behind creating this repo was to learn the interface of handling files through git interface.
+**Motivation: ** The basic motivation behind creating this repo was to learn file handling through git interface.
 
 **Concepts Learnt:**
 - Git
